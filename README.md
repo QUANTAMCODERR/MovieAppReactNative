@@ -59,30 +59,34 @@ The app runs using **Expo Go**, allowing instant testing on real devices without
 ## 🖼️ Application Screenshots
 
 ### 🏠 Home Screen
+
 Main landing screen of the application.
 
-![Home Screen](.assets/images/home.png)
+![Home Screen](./assets/images/home.png)
 
 ---
 
 ### 🔍 Search Screen
+
 Search and explore content efficiently.
 
-![Search Screen](.assets/images/search.png)
+![Search Screen](./assets/images/search.png)
 
 ---
 
 ### ❤️ Saved Screen
+
 View and manage saved items.
 
-![Saved Screen](.assets/images/saved.png)
+![Saved Screen](./assets/images/saved.png)
 
 ---
 
 ### 👤 Profile Screen
+
 User profile and account information.
 
-![Profile Screen](.assets/images/profile.png)
+![Profile Screen](./assets/images/profile.png)
 
 ---
 
@@ -99,14 +103,13 @@ User profile and account information.
 ---
 
 ## 📂 Project Structure
-
 ```
 
 expo-go-app/
 │
-├── app/                # Application screens (file-based routing)
-├── assets/             # Images, icons, fonts
-├── screenshots/        # Screenshots used in README
+├── app/ # Application screens (file-based routing)
+├── assets/ # Images, icons, fonts
+├── screenshots/ # Screenshots used in README
 ├── package.json
 ├── app.json
 ├── babel.config.js
@@ -176,14 +179,14 @@ A QR code will appear in the terminal or browser.
 
 ### Android Emulator
 
-* Install Android Studio
-* Create an Android Virtual Device
-* Press `a` after starting Expo
+- Install Android Studio
+- Create an Android Virtual Device
+- Press `a` after starting Expo
 
 ### iOS Simulator (macOS only)
 
-* Install Xcode
-* Press `i` after starting Expo
+- Install Xcode
+- Press `i` after starting Expo
 
 ---
 
@@ -199,10 +202,10 @@ npm run reset-project  # Reset to a clean Expo project
 
 ## 📌 Notes
 
-* This app runs using **Expo Go**
-* Not deployed to Play Store or App Store
-* Screenshots are used to demonstrate UI
-* Suitable for portfolio and learning purposes
+- This app runs using **Expo Go**
+- Not deployed to Play Store or App Store
+- Screenshots are used to demonstrate UI
+- Suitable for portfolio and learning purposes
 
 ---
 
@@ -211,7 +214,7 @@ npm run reset-project  # Reset to a clean Expo project
 **Tushar Gujjanwar**
 MCA Graduate | Mobile App Developer
 
-* GitHub: [https://github.com/QUANTAMCODERR](https://github.com/QUANTAMCODERR)
+- GitHub: [https://github.com/QUANTAMCODERR](https://github.com/QUANTAMCODERR)
 
 ---
 
@@ -223,3 +226,4 @@ This project is open-source and available for educational and personal use.
 
 ---
 
+```
