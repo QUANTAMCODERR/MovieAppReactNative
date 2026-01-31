@@ -62,7 +62,7 @@ The app runs using **Expo Go**, allowing instant testing on real devices without
 
 Main landing screen of the application.
 
-  <img src="./assets/images/home.png" width="250" />
+<img src="./assets/images/home.png" alt="Home Screen" width="600" />
 
 ---
 
@@ -70,7 +70,7 @@ Main landing screen of the application.
 
 Search and explore content efficiently.
 
-  <img src="./assets/images/search.png" width="250" />
+<img src="./assets/images/search.png" alt="Search Screen" width="600" />
 
 ---
 
@@ -78,7 +78,7 @@ Search and explore content efficiently.
 
 View and manage saved items.
 
-  <img src="./assets/images/saved.png" width="250" />
+<img src="./assets/images/saved.png" alt="Saved Screen" width="600" />
 
 ---
 
@@ -86,7 +86,7 @@ View and manage saved items.
 
 User profile and account information.
 
-  <img src="./assets/images/profile.png" width="250" />
+<img src="./assets/images/profile.png" alt="Profile Screen" width="600" />
 
 ---
 
