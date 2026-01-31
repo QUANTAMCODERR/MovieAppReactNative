@@ -41,3 +41,9 @@ app-example
 # generated native folders
 /ios
 /android
+
+
+API Read Access Token = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNTQ3NmUxOWU3NTBkNWNjMjMxOWJlNWZiYjE1YmY0YyIsIm5iZiI6MTc1OTM2Mzg1NS44MTQwMDAxLCJzdWIiOiI2OGRkYzMwZmY2ZDMzOGRhY2NkYTU0NzkiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ss7SAs-3Uq-TkzUM0uIoTYoh8hN-SdOjHKvoZVcqveo
+
+
+API key = b5476e19e750d5cc2319be5fbb15bf4c

@@ -33,18 +33,193 @@ When you're ready, run:
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+```md
+# 📱 Expo Go Mobile Application
 
-## Learn more
+This is a mobile application developed using **Expo (React Native)**.  
+The app focuses on delivering a clean user interface, smooth navigation, and essential mobile app features.  
+Since this application is not deployed on the Play Store or App Store, the UI and functionality are showcased using screenshots.
 
-To learn more about developing your project with Expo, look at the following resources:
+The app runs using **Expo Go**, allowing instant testing on real devices without building APK or IPA files.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## ✨ Features
 
-Join our community of developers creating universal apps.
+- 🏠 Home screen displaying main content
+- 🔍 Search screen for exploring content
+- ❤️ Saved screen for bookmarked items
+- 👤 Profile screen for user details
+- ⚡ Fast and lightweight performance
+- 📱 Responsive design for multiple screen sizes
+- 🧭 File-based routing using Expo Router
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 🖼️ Application Screenshots
+
+### 🏠 Home Screen
+Main landing screen of the application.
+
+![Home Screen](.assets/images/home.png)
+
+---
+
+### 🔍 Search Screen
+Search and explore content efficiently.
+
+![Search Screen](.assets/images/search.png)
+
+---
+
+### ❤️ Saved Screen
+View and manage saved items.
+
+![Saved Screen](.assets/images/saved.png)
+
+---
+
+### 👤 Profile Screen
+User profile and account information.
+
+![Profile Screen](.assets/images/profile.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- Expo
+- React Native
+- JavaScript
+- Expo Router
+- Expo Go
+- Node.js
+- npm
+
+---
+
+## 📂 Project Structure
+
+```
+
+expo-go-app/
+│
+├── app/                # Application screens (file-based routing)
+├── assets/             # Images, icons, fonts
+├── screenshots/        # Screenshots used in README
+├── package.json
+├── app.json
+├── babel.config.js
+└── README.md
+
+````
+
+---
+
+## 🚀 Installation & Setup
+
+Follow the steps below to run the application locally using Expo Go.
+
+---
+
+### ✅ Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js (v16 or higher recommended)
+- npm
+- Expo Go app (Android / iOS)
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/QUANTAMCODERR/your-repository-name.git
+````
+
+Move into the project directory:
+
+```bash
+cd your-repository-name
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 3️⃣ Start the Development Server
+
+```bash
+npx expo start
+```
+
+A QR code will appear in the terminal or browser.
+
+---
+
+### 4️⃣ Run on Mobile Device
+
+1. Open **Expo Go** on your phone
+2. Scan the QR code
+3. The app will load instantly
+
+---
+
+## 🧪 Run on Emulator (Optional)
+
+### Android Emulator
+
+* Install Android Studio
+* Create an Android Virtual Device
+* Press `a` after starting Expo
+
+### iOS Simulator (macOS only)
+
+* Install Xcode
+* Press `i` after starting Expo
+
+---
+
+## 🔧 Available Commands
+
+```bash
+npm install            # Install dependencies
+npx expo start         # Start Expo development server
+npm run reset-project  # Reset to a clean Expo project
+```
+
+---
+
+## 📌 Notes
+
+* This app runs using **Expo Go**
+* Not deployed to Play Store or App Store
+* Screenshots are used to demonstrate UI
+* Suitable for portfolio and learning purposes
+
+---
+
+## 👨‍💻 Developer
+
+**Tushar Gujjanwar**
+MCA Graduate | Mobile App Developer
+
+* GitHub: [https://github.com/QUANTAMCODERR](https://github.com/QUANTAMCODERR)
+
+---
+
+## 📄 License
+
+This project is open-source and available for educational and personal use.
+
+```
+
+---
+
